@@ -1,4 +1,7 @@
-# gallium-website
+# Gallium Playground
+
+This is the repository for the Gallium playground, an interactive browser
+environment that lets you run Gallium code in your browser.
 
 ## Project setup
 ```
